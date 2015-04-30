@@ -194,7 +194,7 @@ if __name__ == "__main__":
 
     createNevImg()
 
-    setNewImage()
+    newRotateImage()
 
     writeToImage()
 
