@@ -1,8 +1,8 @@
 # photo_joint
 
 - 拼接照片的结果为：  
- ![image](test1.jpg)
-
+ ![image](final.jpg)
+ ![image](final2.jpg)
 
 - 程序说明  
  - lib: PIL, numpy, numexpr, 
